@@ -1,5 +1,4 @@
-<h1>This is a full guide on booting from a usb drive or a external ssd. (read till the end)</h1>
-<hr>
+<h1>This is a full guide on booting from a usb drive or a external ssd. (read till the end)</h1><hr>
 <h2>Uses of usb booting</h2>
 <p>USB booting is extremely useful. It refers to the process of running everything from the external storage, instead of the computer's native SSD.  Some of it's uses are:</p>
 <ul>
