@@ -35,3 +35,8 @@ After all this is done, start the transfer and wait a while until the "ready" bu
   <li>eject drive properly. if you pull out your drive while OS is still on, it will crash. If this happens to you, hold your power button for 10 seconds to force shutdown and reboot normally. Check drive for any signs of corrupted data.</li>
   <li>If you are trying to use this to bypass set restrictions on your device, it is probably against your school's rules. It is STRONGLY suggested not to bring the drive to school or work and use at home for personal use.</li>
 </ul>
+
+<h2>Is there any difference between gaming on an external drive instead of your computer's internal drive?</h2>
+<p>Yes, but only minor. If you didnt slack on your drive purchase, you will definitely not be largely affected. Realistically, only things that drive speed affects is the booting and loading time of a game, all other aspects are handled by your cpu and gpu. You may notice occasional keyboard delays and lag, but games are very much playable on a drive. If you purchase a good drive, it would only get moderately warm while gaming. Transcend ESD310 external ssd has been tested and is proven to run Minecraft and light steam games really well. Take note, if you are lauching a linux system, you cannot play roblox (as of April 2026).</p>
+
+<h1>Thanks for reading, feel free to drop any questions.</h1>
