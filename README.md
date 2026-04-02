@@ -8,6 +8,15 @@
 <p>This process is completely separate from the computer's native SSD and will not touch data stored on the native SSD whatsoever. It is not detectable by any monitoring applications installed on the main SSD either, making it useful for bypassing set restrictions.</p>
 <p><b><u>Before you decide to do this, I am not reponsible for any damage or consequences whatsoever caused by this. Use at your own risk.</u></b></p>
 <hr>
-<h2>Prepping computer for usbess booting</h2>
+<h2>Prepping computer for usbe booting</h2>
 <p>Open up BIOS settings. Can be done by pressing a specific key during your computer's startup process. Alternatively, a surefire way if you're struggling with opening up bios is by pressing the windows button at the middle of the taskbar and clicking the power icon at the botton right. <b>Hold shift</b> and click restart. After restarting, click "troubleshoot" and "UEFI Firmware settings", then click "restart". After restarting, it should bring you to your computer's BIOS settings. If your BIOS are locked, pray and go straight to the next step. </p>
 <p>In your computer's BIOS settings, make sure "usb boot" is turned on. This will allow you to boot from your usb.</p>
+<h2>Obtaining your usb drive/external SSD</h2>
+<p>If you are trying to only use your external drive as a backup for your PC, feel free to choose any large sized drive. <b>However</b>, if you are trying to run a OS and even game on your external drive, make sure to pay much attention to which drive you decide to purchase. If you are new to storage systems, the most important thing to look out for is your SSD's <u>read speed</u>. This will determine how smooth your OS runs and how smooth your gameplay will be. To get a good drive, look for those with read speeds over 400 mb/s, and additionally a high write speed. Some reccomendations are listed below, buy based off avalability and price.</p>
+<ul>
+  <li>PNY elite pro v3 (usb drive)</li>
+  <li>Kingston Datatraveler Max (usb drive)</li>
+  <li>Transcend ESC310 (external SSD)</li>
+  <li>Sandisk exterme PRO (usb drive)</li>
+</ul>
+<p>If interested, check https://ssd-tester.sg/ for detailed information on SSDs and USB drives.</p>
