@@ -12,7 +12,7 @@
 <p>Open up BIOS settings. Can be done by pressing a specific key during your computer's startup process. Alternatively, a surefire way if you're struggling with opening up bios is by pressing the windows button at the middle of the taskbar and clicking the power icon at the botton right. <b>Hold shift</b> and click restart. After restarting, click "troubleshoot" and "UEFI Firmware settings", then click "restart". After restarting, it should bring you to your computer's BIOS settings. If your BIOS are locked, pray and go straight to the next step. </p>
 <p>In your computer's BIOS settings, make sure "usb boot" is turned on. This will allow you to boot from your usb.</p>
 <h2>Obtaining your usb drive/external SSD</h2>
-<p>If you are trying to only use your external drive as a backup for your PC, feel free to choose any large sized drive. <b>However</b>, if you are trying to run a OS and even game on your external drive, make sure to pay much attention to which drive you decide to purchase. If you are new to storage systems, the most important thing to look out for is your SSD's <u>read speed</u>. This will determine how smooth your OS runs and how smooth your gameplay will be. To get a good drive, look for those with read speeds over 400 mb/s, and additionally a high write speed. Some reccomendations are listed below, buy based off avalability and price.</p>
+<p>If you are trying to only use your external drive as a backup for your PC, feel free to choose any large sized drive. <b>However</b>, if you are trying to run a OS and even game on your external drive, make sure to pay much attention to which drive you decide to purchase. If you are new to storage systems, the most important thing to look out for is your SSD's <u>read speed</u>. This will determine how smooth your OS runs and how smooth your gameplay will be. Make sure to get at least a 128 gb drive if you want to use it long term. To get a good drive, look for those with read speeds over 400 mb/s, and additionally a high write speed. Some reccomendations are listed below, buy based off avalability and price.</p>
 <ul>
   <li>PNY elite pro v3 (usb drive)</li>
   <li>Kingston Datatraveler Max (usb drive)</li>
@@ -21,3 +21,7 @@
 </ul>
 <p>If interested, check https://ssd-tester.sg/ for detailed information on SSDs and USB drives.</p>
 <p><u><b>DO NOT SLACK ON YOUR DRIVE IF YOU WANT TO GAME ON IT</b></u></p>
+
+<h2>Preparing your USB drive.</h2>
+<p>On a windows device, download Ubuntu or any OS from the official website. Will take a while as most operating systems are quite big. At the same time, download and launch rufus from the official website https://rufus.ie/en/. Once both downloads have been completed and rufus has been launched, plug in your drive to the PC. In Rufus, select the ISO (file) and select the drive you want to copy it to. If you wish to store your information about your live sessions on your drive, enable persistance storage. It is suggested to keep persistence storage lower (around 70-80% of drive storage space). Partition scheme: GPT Target system, UEFT (nonCSM) File system: FAT32 
+After all this is done, start the transfer and wait a while until the "ready" button turns green, then safely eject your drive.</p>
