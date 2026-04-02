@@ -22,6 +22,16 @@
 <p>If interested, check https://ssd-tester.sg/ for detailed information on SSDs and USB drives.</p>
 <p><u><b>DO NOT SLACK ON YOUR DRIVE IF YOU WANT TO GAME ON IT</b></u></p>
 
-<h2>Preparing your USB drive.</h2>
+<h2>Preparing your USB drive</h2>
 <p>On a windows device, download Ubuntu or any OS from the official website. Will take a while as most operating systems are quite big. At the same time, download and launch rufus from the official website https://rufus.ie/en/. Once both downloads have been completed and rufus has been launched, plug in your drive to the PC. In Rufus, select the ISO (file) and select the drive you want to copy it to. If you wish to store your information about your live sessions on your drive, enable persistance storage. It is suggested to keep persistence storage lower (around 70-80% of drive storage space). Partition scheme: GPT Target system, UEFI (nonCSM) File system: FAT32 
 After all this is done, start the transfer and wait a while until the "ready" button turns green, then safely eject your drive.</p>
+<p>For those of you who are looking to create a backup drive, your journey ends here. You have successfully created a bootable drive.</p>
+
+<h2>Setting up your drive OS</h2>
+<p>Now its time to see if your drive boots up. Plug your drive into your target device and restart your devie. Find your computer's boot menu key online. Boot menu keys vary depending on your device but they usually are: F12, F11, Esc and Del. Once your device is restarting, spam your boot menu key. You should see a boot menu pop up and 2 options, your native SSD and your USB. Click on your usb. If you have installed a linux system on the usb (preferably) navigate to the option that says try [OS] <b> WHATEVER YOU DO, DO NOT INSTALL THE OS, ONLY TRY.</b> Installing the os would mean wiping your device's entire drive and installing another OS, which is REALLY REALLY bad. If you see anything telling you to "wipe disk and install OS", click out of it <b>IMMEDIATELY</b>. </p>
+<p>If you had done all these steps correctly, you should now have your own bootable external disk! All you have to do now is maybe connect to wifi and enjoy unrestricted, unmonitorable access on any device. </p>
+<h2> SAFETY PRECAUTIONS, PRACTICE EVERYTIME</h2>
+<ul>
+  <li>eject drive properly. if you pull out your drive while OS is still on, it will crash. If this happens to you, hold your power button for 10 seconds to force shutdown and reboot normally. Check drive for any signs of corrupted data.</li>
+  <li>If you are trying to use this to bypass set restrictions on your device, it is probably against your school's rules. It is STRONGLY suggested not to bring the drive to school or work and use at home for personal use.</li>
+</ul>
